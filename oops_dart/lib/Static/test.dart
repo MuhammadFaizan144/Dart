@@ -1,4 +1,4 @@
-import 'package:oops_dart/static.dart';
+import 'package:oops_dart/Static/static.dart';
 
 class Test {
   test() {
